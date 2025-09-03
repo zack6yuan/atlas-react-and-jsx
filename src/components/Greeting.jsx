@@ -1,16 +1,17 @@
 import React from "react";
 
 // Image imports
-import day from "./src/assets/day.svg";
-import evening from "./src/assets/evening.svg";
-import night from "./src/assets/night.svg";
+import day from "./assets/day.svg";
+import evening from "./assets/evening.svg";
+import night from "./assets/night.svg";
 
 // Greeting component
 function Greeting() {
     return (
         <h1 className="greeting">
-            <img src="{day}" alt="day" />
+            <img src={"day"} alt="day" />
             Good Morning!
         </h1>
     );
 }
+export default Greeting;
