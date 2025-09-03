@@ -6,3 +6,5 @@ import App from "./App";
 const div = document.getElementById("root");
 const root = ReactDOM.createRoot(div);
 root.render(<App />)
+
+const nav = document.getElementById("nav");
