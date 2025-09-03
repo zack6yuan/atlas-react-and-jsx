@@ -13,18 +13,6 @@ function Greeting() {
                 <img src={day} alt="day" />
                 Good Morning!
             </h1>
-            <h1 className="greeting">
-                <img src={day} alt="day" />
-                Good Afternoon!
-            </h1>
-            <h1 className="greeting">
-                <img src={evening} alt="evening" />
-                Good Evening!
-            </h1>
-            <h1 className="greeting">
-                <img src={night} alt="night" />
-                Good Night!
-            </h1>
         </div>
     );
 }
