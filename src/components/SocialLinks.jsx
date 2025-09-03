@@ -1,7 +1,7 @@
 import React from "react";
 
-import linkedin from "./assets/linkedin";
-import github from "./assets/github";
+import linkedin from "../assets/linkedin.svg";
+import github from "../assets/github.svg";
 
 function SocialLinks() {
     return (
