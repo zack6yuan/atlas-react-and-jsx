@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="app">
         <Header />
-        <Section />
-        <HelpfulResource />
+        <Section title="What is react?" ></Section>
+        <HelpfulResource title="Helpful Resources" />
         <AboutMe />
         <Footer />
     </div>

@@ -2,13 +2,12 @@ import React from "react";
 import open from "../assets/open.svg";
 import copy from "../assets/copy.svg";
 
-// Add the title prop "Helpful resources"
 // Need to copy when copy icon is triggered
-// This needs to be looked at, I don't think I did it correctly
-function HelpfulResource({ link, label }) {
+
+function HelpfulResource({ link, label, title }) {
     return (
         <div>
-            <h1>Helpful Resources</h1>
+            <h1>{ title }</h1>
             <div className="component-one">
                 <p>React Tutorial (W3 Schools)
                     <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer">
