@@ -2,6 +2,7 @@ import React from "react";
 import links from "../assets/links.json";
 
 function Footer() {
+    const year = new Date().getFullYear();
     return (
         <footer>
             <ul>
@@ -10,7 +11,7 @@ function Footer() {
                 <li>component</li>
             </ul>
             <p>
-                © 2025 Atlas School
+                © {year} Atlas School
             </p>
         </footer>
     );

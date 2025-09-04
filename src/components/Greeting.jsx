@@ -7,6 +7,8 @@ import night from "../assets/night.svg";
 
 // Greeting component
 function Greeting() {
+    const date = new Date().getHours();
+    
     return (
         <div>
             <h1 className="greeting">
