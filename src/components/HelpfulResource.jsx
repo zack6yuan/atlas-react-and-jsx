@@ -1,4 +1,3 @@
-import React from "react";
 import open from "../assets/open.svg";
 import copy from "../assets/copy.svg";
 

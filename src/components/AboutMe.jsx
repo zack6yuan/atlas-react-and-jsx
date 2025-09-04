@@ -1,4 +1,3 @@
-import React from "react";
 import profilePicture from "../assets/profile-picture.png";
 
 function AboutMe( { children }) {

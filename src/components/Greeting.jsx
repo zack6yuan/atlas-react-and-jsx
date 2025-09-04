@@ -1,5 +1,3 @@
-import React from "react";
-
 // Image imports
 import day from "../assets/day.svg";
 import evening from "../assets/evening.svg";
