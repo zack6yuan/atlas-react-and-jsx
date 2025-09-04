@@ -8,8 +8,8 @@ function HelpfulResource({ link, label }) {
     return (
         <div>
             <div className="component-one">
-                <p>React Tutorial</p>
-                <a href="https://www.w3schools.com/react/default.asp">
+                <p>React Tutorial (W3 Schools)</p>
+                <a href="https://www.w3schools.com/react/default.asp" target="_blank" rel="noreferrer">
                     <img src={open} alt="open-icon" />
                 </a>
                 <a href="">
@@ -17,8 +17,8 @@ function HelpfulResource({ link, label }) {
                 </a>
             </div>
             <div className="component-two">
-                <p>React Components</p>
-                <a href="https://www.w3schools.com/react/react_components.asp">
+                <p>React Components (W3 Schools)</p>
+                <a href="https://www.w3schools.com/react/react_components.asp" target="_blank" rel="noreferrer">
                     <img src={open} alt="open-icon" />
                 </a>
                 <a href="">
@@ -26,8 +26,8 @@ function HelpfulResource({ link, label }) {
                 </a>
             </div>
             <div className="component-three">
-                <p>React Props</p>
-                    <a href="https://www.w3schools.com/react/react_props.asp">
+                <p>React Props (W3 Schools)</p>
+                    <a href="https://www.w3schools.com/react/react_props.asp" target="_blank" rel="noreferrer">
                         <img src={open} alt="open-icon" />
                     </a>
                     <a href="">
@@ -35,8 +35,8 @@ function HelpfulResource({ link, label }) {
                     </a>
             </div>
             <div className="component-four">
-                <p>React JSX</p>
-                    <a href="https://www.w3schools.com/react/react_jsx.asp">
+                <p>React JSX (W3 Schools)</p>
+                    <a href="https://www.w3schools.com/react/react_jsx.asp" target="_blank" rel="noreferrer">
                         <img src={open} alt="open-icon" />
                     </a>
                     <a href="">
@@ -44,8 +44,8 @@ function HelpfulResource({ link, label }) {
                     </a>
             </div>
             <div className="component-five">
-                <p>React Conditional Rendering</p>
-                    <a href="https://www.w3schools.com/react/react_conditional_rendering.asp">
+                <p>React Conditional Rendering (W3 Schools)</p>
+                    <a href="https://www.w3schools.com/react/react_conditional_rendering.asp" target="_blank" rel="noreferrer">
                         <img src={open} alt="open-icon" />
                     </a>
                     <a href="">
