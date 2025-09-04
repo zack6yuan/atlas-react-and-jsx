@@ -1,4 +1,3 @@
-import Greeting from "./components/Greeting";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import HelpfulResource from "./components/HelpfulResource";
