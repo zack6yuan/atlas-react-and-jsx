@@ -1,8 +1,12 @@
+import React from "react";
+
 function Section({ title, children }) {
     return (
         <div className="about-section">
             <h1>{ title }</h1>
-            { children }
+            <ul>
+                <li></li>
+            </ul>
         </div>
     );
 }
