@@ -15,11 +15,13 @@ function App() {
             With a strong ecosystem containing various tools and libraries, React simplifies the process of building dynamic and interactive web applications.
         </Section>
         <Section title="Benefits of react">
-            Component-based architecture that makes components maintainable and scaleable
-            Declarative syntax that makes code easier to understand
-            Efficient rendering to the DOM (Document Object Model)
-            Simplifies implementing dynamic content and interactive UI elements
-            Strong ecosystem of tools and libraries to pair with the core functionality of React
+            <ul>
+                <li> Component-based architecture that makes components maintainable and scaleable</li>
+                <li>Declarative syntax that makes code easier to understand</li>
+                <li>Efficient rendering to the DOM (Document Object Model)</li>
+                <li>Simplifies implementing dynamic content and interactive UI elements</li>
+                <li>Strong ecosystem of tools and libraries to pair with the core functionality of React</li>
+            </ul>
         </Section>
         <HelpfulResource title="Helpful Resources" />
         <AboutMe>
