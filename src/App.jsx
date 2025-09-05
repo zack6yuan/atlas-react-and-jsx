@@ -16,11 +16,11 @@ function App() {
         </Section>
         <Section title="Benefits of react">
             <ul>
-                <li> Component-based architecture that makes components maintainable and scaleable</li>
+                <li> Component-based architecture making code maintainable and scaleable</li>
                 <li>Declarative syntax that makes code easier to understand</li>
                 <li>Efficient rendering to the DOM (Document Object Model)</li>
                 <li>Simplifies implementing dynamic content and interactive UI elements</li>
-                <li>Strong ecosystem of tools and libraries to pair with the core functionality of React</li>
+                <li>Strong ecosystem of tools and libraries to pair with it's core functionality</li>
             </ul>
         </Section>
         <HelpfulResource title="Helpful Resources" />
