@@ -23,7 +23,9 @@ function App() {
                 <li>Strong ecosystem of tools and libraries to pair with it's core functionality</li>
             </ul>
         </Section>
-        <HelpfulResource title="Helpful Resources" />
+        <HelpfulResource title="Helpful Resources">
+            
+        </HelpfulResource>
         <AboutMe>
                 Hello! My name is Zack Yuan. I am currently in Trimester 5, the last phase of the Full-Stack Web Development specialization at Atlas School in Tulsa, Oklahoma.
                 Recently diving into ReactJS, it has quickly become my preference to build UI's and reusable components.
