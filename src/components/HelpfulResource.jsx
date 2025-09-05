@@ -1,11 +1,12 @@
 import open from "../assets/open.svg";
 import copy from "../assets/copy.svg";
 
+
 // Need to copy when copy icon is triggered
 
 function HelpfulResource({ link, label, title }) {
     return (
-        <div>
+        <div className="HelpfulResource">
             <h1>{ title }</h1>
             <div className="component-one">
                 <p>React Tutorial (W3 Schools)
