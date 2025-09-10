@@ -1,7 +1,6 @@
 import open from "../assets/open.svg";
 import copy from "../assets/copy.svg";
 
-
 // Need to copy when copy icon is triggered
 
 function HelpfulResource({ link, label, title }) {

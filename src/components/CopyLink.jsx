@@ -1,9 +1,12 @@
 import copy from "../assets/copy.svg";
-
-// Need to copy when the icon is clicked
+/*
 function CopyLink(link) {
     return (
-        <img className="copy" src={copy} alt="copy-icon" />
+        <div>
+            <h1>{ title }</h1>
+            <img className="copy" src={ copy }></img>
+        </div>
     )
 }
 export default CopyLink;
+*/

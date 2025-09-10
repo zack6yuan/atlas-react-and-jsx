@@ -5,9 +5,9 @@ function Footer() {
     return (
         <footer>
             <ul>
-                <li>component</li>
-                <li>component</li>
-                <li>component</li>
+                <li>{links[0].label}</li>
+                <li>{links[1].label}</li>
+                <li>{links[2].label}</li>
             </ul>
             <p>
                 © {year} Atlas School
