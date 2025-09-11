@@ -5,6 +5,7 @@ import night from "../assets/night.svg";
 
 // Greeting component
 function Greeting() {
+    // get the current time to conditionally render the image + text
     const time = new Date().getHours();
 
     let image;
