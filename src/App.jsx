@@ -24,7 +24,6 @@ function App() {
             </ul>
         </Section>
         <HelpfulResource title="Helpful Resources">
-            
         </HelpfulResource>
         <AboutMe>
                 Hello! My name is Zack Yuan. I am currently in Trimester 5, the last phase of the Full-Stack Web Development specialization at Atlas School in Tulsa, Oklahoma.
